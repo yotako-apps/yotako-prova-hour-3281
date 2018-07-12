@@ -1,0 +1,1152 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755lw.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 1114px;
+    flex-direction: column
+  }
+  .image0row0 {
+    display: flex;
+    margin-top: 14px;
+    width: 340px;
+    height: 49px;
+    align-items: center;
+    align-self: center
+  }
+  .style10,
+  .style11 {
+    margin-left: 0;
+    width: 143px;
+    height: 43px
+  }
+  .style11 {
+    margin-left: 55px;
+    height: 100%
+  }
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755q1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 17px;
+    width: 100%;
+    height: 34px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style24 {
+    color: #fff;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 200;
+    letter-spacing: 1px;
+    height: 15px
+  }
+  .style3 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755u5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 152px;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image3row0 {
+    display: flex;
+    width: 361px;
+    height: 141px
+  }
+  .style23 {
+    margin-left: 0;
+    width: 188px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style6 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 500;
+    letter-spacing: -1px;
+    line-height: 30px;
+    margin-left: 18px;
+    margin-top: 36px;
+    width: 156px
+  }
+  .image0row3 {
+    display: flex;
+    margin-top: 5px;
+    width: 358px;
+    height: 141px;
+    align-self: flex-end
+  }
+  .style12 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 0;
+    margin-top: 35px;
+    width: 135px
+  }
+  .style22,
+  .style4 {
+    align-self: stretch
+  }
+  .style22 {
+    margin-left: 35px;
+    width: 188px;
+    height: 100%
+  }
+  .style4 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7560c.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 5px;
+    width: 100%;
+    height: 151px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image4row0 {
+    display: flex;
+    width: 342px;
+    height: 141px
+  }
+  .style21 {
+    margin-left: 0;
+    width: 188px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style13 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 17px;
+    margin-top: 45px;
+    width: 137px
+  }
+  .image0row5 {
+    display: flex;
+    margin-top: 5px;
+    width: 358px;
+    height: 141px;
+    align-self: flex-end
+  }
+  .style14 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 0;
+    margin-top: 44px;
+    width: 149px
+  }
+  .style20,
+  .style5 {
+    align-self: stretch
+  }
+  .style20 {
+    margin-left: 21px;
+    width: 188px;
+    height: 100%
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7564s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 5px;
+    width: 100%;
+    height: 151px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image5row0 {
+    display: flex;
+    width: 338px;
+    height: 141px
+  }
+  .style19 {
+    margin-left: 0;
+    width: 188px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style15 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 17px;
+    margin-top: 37px;
+    width: 133px
+  }
+  .image0row7 {
+    display: flex;
+    margin-top: 6px;
+    width: 358px;
+    height: 141px;
+    align-self: flex-end
+  }
+  .style16 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 1.129150390625em;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 0;
+    margin-top: 38px;
+    width: 134px
+  }
+  .style18,
+  .style7 {
+    align-self: stretch
+  }
+  .style18 {
+    margin-left: 35px;
+    width: 188px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 9px;
+    width: 100%;
+    height: 4px
+  }
+  .style17 {
+    color: #f7a823;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: .67138671875em;
+    line-height: 18px;
+    margin-top: 9px;
+    width: 304px;
+    align-self: center
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755no.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 7px;
+    width: 146px;
+    height: 32px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column
+  }
+  .image0image1row0 {
+    display: flex;
+    margin-top: 12px;
+    width: 33px;
+    height: 15px;
+    align-items: stretch
+  }
+  .style8,
+  .style9 {
+    margin-left: 0;
+    width: 15px
+  }
+  .style8 {
+    margin-left: 3px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755lw.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 2282px;
+    flex-direction: column
+  }
+  .image0row0 {
+    display: flex;
+    margin-top: 29px;
+    width: 697px;
+    height: 101px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    margin-left: 0;
+    width: 292px;
+    height: 89px
+  }
+  .style11 {
+    margin-left: 112px;
+    width: 293px;
+    height: 100%
+  }
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755q1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 35px;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style24 {
+    color: #fff;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 200;
+    letter-spacing: 2px;
+    height: 30px
+  }
+  .style3 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755u5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 312px;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image3row0 {
+    display: flex;
+    width: 739px;
+    height: 289px
+  }
+  .style23 {
+    margin-left: 0;
+    width: 384px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style6 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 500;
+    letter-spacing: -2px;
+    line-height: 61px;
+    margin-left: 36px;
+    margin-top: 74px;
+    width: 319px
+  }
+  .image0row3 {
+    display: flex;
+    margin-top: 10px;
+    width: 733px;
+    height: 289px;
+    align-self: flex-end
+  }
+  .style12 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 500;
+    line-height: 61px;
+    margin-left: 0;
+    margin-top: 72px;
+    width: 276px
+  }
+  .style22,
+  .style4 {
+    align-self: stretch
+  }
+  .style22 {
+    margin-left: 71px;
+    width: 385px;
+    height: 100%
+  }
+  .style4 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7560c.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 10px;
+    width: 100%;
+    height: 310px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image4row0 {
+    display: flex;
+    width: 700px;
+    height: 289px
+  }
+  .style21 {
+    margin-left: 0;
+    width: 384px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style13 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 500;
+    line-height: 61px;
+    margin-left: 35px;
+    margin-top: 92px;
+    width: 281px
+  }
+  .image0row5 {
+    display: flex;
+    margin-top: 11px;
+    width: 734px;
+    height: 289px;
+    align-self: flex-end
+  }
+  .style14 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 500;
+    line-height: 61px;
+    margin-left: 0;
+    margin-top: 90px;
+    width: 305px
+  }
+  .style20,
+  .style5 {
+    align-self: stretch
+  }
+  .style20 {
+    margin-left: 44px;
+    width: 385px;
+    height: 100%
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7564s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 10px;
+    width: 100%;
+    height: 310px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image5row0 {
+    display: flex;
+    width: 692px;
+    height: 289px
+  }
+  .style19 {
+    margin-left: 0;
+    width: 384px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style15 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 500;
+    line-height: 61px;
+    margin-left: 35px;
+    margin-top: 75px;
+    width: 273px
+  }
+  .image0row7 {
+    display: flex;
+    margin-top: 12px;
+    width: 733px;
+    height: 289px;
+    align-self: flex-end
+  }
+  .style16 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 2.3125em;
+    font-weight: 500;
+    line-height: 61px;
+    margin-left: 0;
+    margin-top: 77px;
+    width: 275px
+  }
+  .style18,
+  .style7 {
+    align-self: stretch
+  }
+  .style18 {
+    margin-left: 72px;
+    width: 385px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 19px;
+    width: 100%;
+    height: 8px
+  }
+  .style17 {
+    color: #f7a823;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 1.375em;
+    line-height: 37px;
+    margin-top: 19px;
+    width: 622px;
+    align-self: center
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755no.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 14px;
+    width: 298px;
+    height: 65px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column
+  }
+  .image0image1row0 {
+    display: flex;
+    margin-top: 24px;
+    width: 68px;
+    height: 31px;
+    align-items: stretch
+  }
+  .style8,
+  .style9 {
+    margin-left: 0;
+    width: 31px
+  }
+  .style8 {
+    margin-left: 7px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755lw.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 2734px;
+    flex-direction: column
+  }
+  .image0row0 {
+    display: flex;
+    margin-top: 35px;
+    width: 835px;
+    height: 121px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    margin-left: 0;
+    width: 350px;
+    height: 107px
+  }
+  .style11 {
+    margin-left: 134px;
+    width: 351px;
+    height: 100%
+  }
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755q1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 42px;
+    width: 100%;
+    height: 84px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style24 {
+    color: #fff;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 200;
+    letter-spacing: 2px;
+    height: 36px
+  }
+  .style3 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755u5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 374px;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image3row0 {
+    display: flex;
+    width: 885px;
+    height: 346px
+  }
+  .style23 {
+    margin-left: 0;
+    width: 460px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style6 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 500;
+    letter-spacing: -2px;
+    line-height: 73px;
+    margin-left: 43px;
+    margin-top: 89px;
+    width: 382px
+  }
+  .image0row3 {
+    display: flex;
+    margin-top: 12px;
+    width: 878px;
+    height: 346px;
+    align-self: flex-end
+  }
+  .style12 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 500;
+    line-height: 73px;
+    margin-left: 0;
+    margin-top: 86px;
+    width: 331px
+  }
+  .style22,
+  .style4 {
+    align-self: stretch
+  }
+  .style22 {
+    margin-left: 85px;
+    width: 461px;
+    height: 100%
+  }
+  .style4 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7560c.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 12px;
+    width: 100%;
+    height: 371px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image4row0 {
+    display: flex;
+    width: 839px;
+    height: 346px
+  }
+  .style21 {
+    margin-left: 0;
+    width: 460px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style13 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 500;
+    line-height: 73px;
+    margin-left: 42px;
+    margin-top: 110px;
+    width: 337px
+  }
+  .image0row5 {
+    display: flex;
+    margin-top: 13px;
+    width: 879px;
+    height: 346px;
+    align-self: flex-end
+  }
+  .style14 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 500;
+    line-height: 73px;
+    margin-left: 0;
+    margin-top: 108px;
+    width: 365px
+  }
+  .style20,
+  .style5 {
+    align-self: stretch
+  }
+  .style20 {
+    margin-left: 53px;
+    width: 461px;
+    height: 100%
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7564s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 12px;
+    width: 100%;
+    height: 371px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image5row0 {
+    display: flex;
+    width: 829px;
+    height: 346px
+  }
+  .style19 {
+    margin-left: 0;
+    width: 460px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style15 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 500;
+    line-height: 73px;
+    margin-left: 42px;
+    margin-top: 90px;
+    width: 327px
+  }
+  .image0row7 {
+    display: flex;
+    margin-top: 14px;
+    width: 878px;
+    height: 346px;
+    align-self: flex-end
+  }
+  .style16 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 2.770182291666667em;
+    font-weight: 500;
+    line-height: 73px;
+    margin-left: 0;
+    margin-top: 92px;
+    width: 329px
+  }
+  .style18,
+  .style7 {
+    align-self: stretch
+  }
+  .style18 {
+    margin-left: 86px;
+    width: 461px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 23px;
+    width: 100%;
+    height: 10px
+  }
+  .style17 {
+    color: #f7a823;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 1.6471354166666667em;
+    line-height: 44px;
+    margin-top: 23px;
+    width: 745px;
+    align-self: center
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755no.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 17px;
+    width: 357px;
+    height: 78px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column
+  }
+  .image0image1row0 {
+    display: flex;
+    margin-top: 29px;
+    width: 81px;
+    height: 37px;
+    align-items: stretch
+  }
+  .style8,
+  .style9 {
+    margin-left: 0;
+    width: 37px
+  }
+  .style8 {
+    margin-left: 8px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755lw.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 3566px;
+    flex-direction: column
+  }
+  .image0row0 {
+    display: flex;
+    margin-top: 45px;
+    width: 1089px;
+    height: 158px;
+    align-items: center;
+    align-self: center
+  }
+  .style10 {
+    margin-left: 0;
+    width: 456px;
+    height: 139px
+  }
+  .style11 {
+    margin-left: 175px;
+    width: 458px;
+    height: 100%
+  }
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755q1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 55px;
+    width: 100%;
+    height: 109px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style24 {
+    color: #fff;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 200;
+    letter-spacing: 3px;
+    height: 47px
+  }
+  .style3 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755u5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 488px;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image3row0 {
+    display: flex;
+    width: 1155px;
+    height: 452px
+  }
+  .style23 {
+    margin-left: 0;
+    width: 600px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style6 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 500;
+    letter-spacing: -3px;
+    line-height: 95px;
+    margin-left: 56px;
+    margin-top: 116px;
+    width: 498px
+  }
+  .image0row3 {
+    display: flex;
+    margin-top: 16px;
+    width: 1145px;
+    height: 452px;
+    align-self: flex-end
+  }
+  .style12 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 500;
+    line-height: 95px;
+    margin-left: 0;
+    margin-top: 113px;
+    width: 431px
+  }
+  .style22,
+  .style4 {
+    align-self: stretch
+  }
+  .style22 {
+    margin-left: 111px;
+    width: 602px;
+    height: 100%
+  }
+  .style4 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7560c.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+    height: 484px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image4row0 {
+    display: flex;
+    width: 1094px;
+    height: 452px
+  }
+  .style21 {
+    margin-left: 0;
+    width: 600px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style13 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 500;
+    line-height: 95px;
+    margin-left: 55px;
+    margin-top: 144px;
+    width: 439px
+  }
+  .image0row5 {
+    display: flex;
+    margin-top: 17px;
+    width: 1147px;
+    height: 452px;
+    align-self: flex-end
+  }
+  .style14 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 500;
+    line-height: 95px;
+    margin-left: 0;
+    margin-top: 141px;
+    width: 477px
+  }
+  .style20,
+  .style5 {
+    align-self: stretch
+  }
+  .style20 {
+    margin-left: 69px;
+    width: 602px;
+    height: 100%
+  }
+  .style5 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji7564s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+    height: 484px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .image0image5row0 {
+    display: flex;
+    width: 1081px;
+    height: 452px
+  }
+  .style19 {
+    margin-left: 0;
+    width: 600px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style15 {
+    color: #fff;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 500;
+    line-height: 95px;
+    margin-left: 55px;
+    margin-top: 117px;
+    width: 427px
+  }
+  .image0row7 {
+    display: flex;
+    margin-top: 19px;
+    width: 1145px;
+    height: 452px;
+    align-self: flex-end
+  }
+  .style16 {
+    color: #3e3c3c;
+    font-family: Dosis,serif;
+    font-size: 3.61328125em;
+    font-weight: 500;
+    line-height: 95px;
+    margin-left: 0;
+    margin-top: 120px;
+    width: 430px
+  }
+  .style18,
+  .style7 {
+    align-self: stretch
+  }
+  .style18 {
+    margin-left: 113px;
+    width: 602px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 30px;
+    width: 100%;
+    height: 13px
+  }
+  .style17 {
+    color: #f7a823;
+    text-align: center;
+    font-family: Dosis,serif;
+    font-size: 2.1484375em;
+    line-height: 58px;
+    margin-top: 30px;
+    width: 972px;
+    align-self: center
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599ugjji755no.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-top: 22px;
+    width: 466px;
+    height: 102px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column
+  }
+  .image0image1row0 {
+    display: flex;
+    margin-top: 38px;
+    width: 106px;
+    height: 48px;
+    align-items: stretch
+  }
+  .style8,
+  .style9 {
+    margin-left: 0;
+    width: 48px
+  }
+  .style8 {
+    margin-left: 11px
+  }
+}
